@@ -23,5 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sergiocalvopaez/)  
 [![Website](https://img.shields.io/badge/Website-Veriloquium-blue)](https://www.veriloquium.com)
 
-🚀 Always looking to innovate at the intersection of **AI, Language, and Technology**!
+● ● ● ➠ Connecting the Dots at the Crossroads of AI, NLP, and Localization. 🚀
+⚫🔴🟠🟡🟢🔵🟣⚪
 
