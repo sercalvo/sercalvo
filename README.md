@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sergio Calvo Páez
+💡 Computational Linguist | NLP Engineer | Localization QA Expert
 
-<!--
-**sercalvo/sercalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me
+- 📍 Based in Madrid, Spain
+- 🎯 Specialized in NLP for Localization & Terminology Management
+- 🚀 Building **TermXT**, **LangQA**, **LearnNLP** & **MindCV** 
+- 🎵 Passionate about music, AI, and technology
 
-Here are some ideas to get you started:
+## 🔹 Featured Projects
+- 📚 [**TermXT**](https://github.com/sercalvo/TermXT) – Terminology mining and extraction tool using NLP
+- 🔍 [**LangQA**](https://github.com/sercalvo/langQA) – AI-driven QA for localization
+- 📚 [**LearnNLP**](https://github.com/sercalvo/LearnNLP) – AI-powered personality analysis
+- 🧠 [**SelfMosaic**](https://github.com/sercalvo/SelfMosaic) – AI-powered personality analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+🚀 **NLP & AI** – Language Models, Named Entity Recognition, Sentiment Analysis  
+🔧 **Localization & QA** – Smartling, Trados, Automated QA Checks  
+📌 **Programming** – Python, LangChain, Streamlit  
+📊 **Data Science** – Pandas, Regex, Data Processing  
+
+## 🔹 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sergiocalvopaez/)  
+[![Website](https://img.shields.io/badge/Website-Veriloquium-blue)](https://www.veriloquium.com)
+
+🚀 Always looking to innovate at the intersection of **AI, Language, and Technology**!
+
