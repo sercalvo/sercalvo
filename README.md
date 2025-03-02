@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sergio Calvo Páez
+# 👋 Hi, I'm Sergio Calvo
 💡 Computational Linguist | NLP Engineer | Localization QA Expert
 
 ## 🔹 About Me
